@@ -1,2 +1,2 @@
 # Simulator
-Simulator Coliziune Minge - proiect InfoEducație
+Simulator Coliziune Minge (Studii stroboscopice) - proiect InfoEducație
