@@ -1,5 +1,5 @@
 # Simulator
 Simulator Coliziune Minge (Studii stroboscopice) - proiect InfoEducație
 Realizatori:
-  Negru Alexandru
+  Negru Alexandru,
   Gherasim Teodor-Samuel
